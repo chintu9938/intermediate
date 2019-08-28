@@ -1,0 +1,197 @@
+                             /* mobile response */
+
+@media (max-width: 480px) {
+
+              /* navbar section start */
+.heading-link {
+  padding-left: 15px;
+  text-decoration: none;
+}
+.heading-list{
+  margin-right: 1px;
+}
+.logo {
+  width:20%;
+  margin-left: 20px;
+}
+             /* navbar section end */
+
+
+             /* feature section start */
+.btn-1 {
+  width: 90%;
+  height: 12%;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
+
+
+.Feature{
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.feature-heading{
+  font-size: small;
+  width: 90%;
+  text-align: center;
+  margin-left: 2% !important;
+  padding-left: 2% !important;
+  margin-left: 8%;
+}
+.input {
+  width: 90%;
+}
+
+p{
+  width: 61%;
+  text-align: center;
+  margin-left: 14%;
+
+}
+
+
+                  /* feature section end */
+
+                   /* team section start */
+
+.avtar{
+  width:75%;
+  margin-left: 16%;
+}
+.avtar-detail{
+  width: 60%;
+  padding-top:3%;
+}
+
+.avtar-paragraph{
+  width:80%;
+}
+
+.desc1{
+  text-align: center;
+  width: 75%;
+  padding-left: 10%;
+  font-size: smaller;
+  margin-left: 8%;
+}
+
+.desc{
+  text-align: center;
+  width: 75%;
+  padding-left: 10%;
+  font-size: smaller;
+    margin-left: 8%;
+}
+
+.first-paragraph{
+  text-align: center;
+}
+.illustration1 {
+  width: 80%;
+  margin-top: 55px;
+  margin-left: 14%;
+}
+.team-heading{
+  font-size: small;
+  width: 90%;
+    text-align: center;
+    margin-left: 2% !important;
+    padding-left: 2% !important;
+      /* margin-left: 8%; */
+}
+
+.Team{
+  display: flex;
+  flex-direction: column-reverse;
+}
+                  /* team section end */
+
+               /* sign in section start */
+.btn-2{
+  width:70%;
+  /* margin-right: 3%; */
+}
+
+.signin{
+  text-align: center;
+  margin-right: 0;
+}
+
+.signinhead{
+  margin-right: 3%;
+}
+
+.signinparagraph{
+  width: 60%;
+  margin-left: 20%;
+}
+
+.text1{
+  width:70%;
+  /* margin-right:3%; */
+}
+
+                /* footer part start */
+.email{
+  padding-top: 5%;
+  width: 150%;
+}
+
+.em{
+  display: inline;
+}
+
+.footerlink{
+  display: inline;
+}
+
+.footer{
+  padding-bottom: 100px;
+  color: white;
+}
+
+.info{
+  display: block;
+  width:70%;
+}
+
+li{
+  padding-top: 20px;
+}
+
+.link{
+  display: block;
+  margin-left: 0;
+}
+
+.number{
+  display: inline;
+  padding-right:40%;
+  margin-left: 0;
+}
+
+.ph-number{
+  padding-top:5%;
+}
+
+.ph{
+  display: inline;
+}
+
+.social-media{
+  display: block;
+  width:40%;
+    margin-bottom: 20px;
+    margin-right: 25%;
+    padding-top: 10px;
+}
+
+.ul2{
+  margin-left: 0;
+}
+
+               /* footer part end */
+}
+
+             /* sign in section end */
